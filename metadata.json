@@ -1,0 +1,8 @@
+{
+  "name": "Tactical COP Lite",
+  "description": "A high-speed, uncluttered Common Operational Picture (COP) for commanders in degraded environments, featuring real-time tracking, FMV integration, and automated tactical alerts.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
